@@ -1,7 +1,9 @@
 ### Critiqe examples of effective and ineffective data visualisations
 
 Explore some data visualization and feedback about one (or maybe a few)
+
 Choose any of the demos or find other ones you like
+
 Some things you could consider:
 - Who is the target audience?
 - How easily can you grasp the data story

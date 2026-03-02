@@ -1,5 +1,3 @@
-## Some Links
-
 ### Some Visualizations
 The worlds finances in one visual (2022)
 https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2022/
