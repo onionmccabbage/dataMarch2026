@@ -1,0 +1,324 @@
+respondent Number,chocolate bought,1. buying frequency,5a) značka,5b) chuť,5c) země,5d) cena,5e) odpovědnost,5f) jiné,4. how much pay more,5. FT price,I. gender,II. Income,III. Country,region
+1,A Fairtrade,c - once in 2 weeks,2,1,4,3,5,0,c) 11-30 %,100,b) female,f) >20000,Russia,E
+2,A Fairtrade,d - once in a month,4,2,5,1,3,0,d) 31 - 50 %,90,b) female,d) 10000-15000 CZK,CZ,W
+3,B normal,c - once in 2 weeks,3,1,5,2,4,0,c) 11-30 %,50,b) female,b) < 5 000 CZK,CZ,W
+4,B normal,d - once in a month,3,1,4,2,5,0,b) 1-10 %,45,a) male,b) < 5 000 CZK,CZ,W
+5,A Fairtrade,d - once in a month,3,1,4,2,5,0,b) 1-10 %,50,a) male,a) no,CZ,W
+6,B normal,b - once a week,0,0,1,0,0,0,c) 11-30 %,50,a) male,f) >20000,CZ,W
+7,A Fairtrade,d - once in a month,0,1,0,0,0,0,b) 1-10 %,55,a) male,b) < 5 000 CZK,Slovakia,E
+9,A Fairtrade,c - once in 2 weeks,1,3,4,2,5,0,c) 11-30 %,60,a) male,c) 5000-10000 CZK,CZ,W
+10,A Fairtrade,e - less frequently,5,1,2,3,4,0,d) 31 - 50 %,90,b) female,a) no,Italy,W
+11,A Fairtrade,b - once a week,3,1,5,2,4,0,d) 31 - 50 %,70,b) female,a) no,Italy,W
+12,B normal,a - several times per week,0,1,1,0,0,0,d) 31 - 50 %,0,b) female,d) 10000-15000 CZK,Belarus,E
+14,A Fairtrade,d - once in a month,1,1,0,0,0,0,d) 31 - 50 %,90,a) male,b) < 5 000 CZK,Slovakia,E
+15,A Fairtrade,d - once in a month,2,1,4,3,5,0,d) 31 - 50 %,100,b) female,d) 10000-15000 CZK,CZ,W
+16,B normal,c - once in 2 weeks,3,1,4,2,5,0,d) 31 - 50 %,70,a) male,b) < 5 000 CZK,Slovakia,E
+17,B normal,d - once in a month,2,1,4,3,5,0,b) 1-10 %,50,a) male,f) >20000,Belarus,E
+18,A Fairtrade,e - less frequently,5,1,4,2,3,0,c) 11-30 %,110,a) male,a) no,Russia,E
+19,A Fairtrade,e - less frequently,4,1,3,2,5,0,b) 1-10 %,70,a) male,c) 5000-10000 CZK,CZ,W
+20,A Fairtrade,e - less frequently,3,1,5,2,4,0,c) 11-30 %,80,a) male,c) 5000-10000 CZK,CZ,W
+21,A Fairtrade,e - less frequently,2,1,3,4,5,0,c) 11-30 %,140,b) female,b) < 5 000 CZK,CZ,W
+22,A Fairtrade,c - once in 2 weeks,4,2,1,3,5,0,c) 11-30 %,60,b) female,c) 5000-10000 CZK,CZ,W
+23,A Fairtrade,c - once in 2 weeks,5,1,3,2,4,0,c) 11-30 %,100,b) female,a) no,Slovakia,E
+24,B normal,c - once in 2 weeks,0,1,0,1,0,0,c) 11-30 %,60,b) female,a) no,Slovakia,E
+25,A Fairtrade,e - less frequently,3,1,5,2,4,0,d) 31 - 50 %,100,b) female,c) 5000-10000 CZK,CZ,W
+26,B normal,b - once a week,5,1,4,2,3,0,c) 11-30 %,60,a) male,f) >20000,CZ,W
+27,A Fairtrade,d - once in a month,4,1,5,3,0,0,c) 11-30 %,70,b) female,d) 10000-15000 CZK,CZ,W
+28,A Fairtrade,c - once in 2 weeks,3,1,2,1,1,3,b) 1-10 %,47.5,a) male,c) 5000-10000 CZK,CZ,W
+29,A Fairtrade,e - less frequently,3,2,5,1,4,0,c) 11-30 %,60,b) female,a) no,CZ,W
+30,A Fairtrade,e - less frequently,1,2,3,5,4,0,f) 81 - 100 %,100,b) female,a) no,CZ,W
+31,A Fairtrade,b - once a week,4,1,5,2,3,0,c) 11-30 %,60,b) female,c) 5000-10000 CZK,CZ,W
+32,A Fairtrade,e - less frequently,3,1,4,2,5,0,c) 11-30 %,80,b) female,c) 5000-10000 CZK,CZ,W
+33,A Fairtrade,e - less frequently,1,1,0,0,0,0,e) 51 - 80 %,40,a) male,b) < 5 000 CZK,CZ,W
+34,A Fairtrade,b - once a week,6,2,3,5,4,1 složení,c) 11-30 %,80,b) female,b) < 5 000 CZK,CZ,W
+35,A Fairtrade,c - once in 2 weeks,5,7,5,5,4,0,0,60,b) female,b) < 5 000 CZK,CZ,W
+36,A Fairtrade,e - less frequently,1,2,4,3,5,0,b) 1-10 %,60,b) female,d) 10000-15000 CZK,CZ,W
+37,B normal,d - once in a month,0,1,0,1,0,0,d) 31 - 50 %,60,b) female,c) 5000-10000 CZK,CZ,W
+38,B normal,b - once a week,4,1,5,2,3,0,c) 11-30 %,60,b) female,b) < 5 000 CZK,CZ,W
+39,B normal,d - once in a month,2,1,4,3,5,0,b) 1-10 %,44,a) male,d) 10000-15000 CZK,CZ,W
+40,A Fairtrade,a - several times per week,3,1,5,2,4,0,b) 1-10 %,100,b) female,f) >20000,CZ,W
+41,B normal,b - once a week,4,1,3,2,5,0,b) 1-10 %,45,a) male,b) < 5 000 CZK,CZ,W
+42,A Fairtrade,c - once in 2 weeks,0,1,0,1,1,0,c) 11-30 %,89,b) female,c) 5000-10000 CZK,CZ,W
+43,B normal,b - once a week,4,1,3,2,5,0,c) 11-30 %,0,0,0,0,0
+44,B normal,d - once in a month,2,3,5,1,4,0,b) 1-10 %,50,a) male,b) < 5 000 CZK,CZ,W
+45,A Fairtrade,c - once in 2 weeks,1,2,5,3,4,0,c) 11-30 %,60,b) female,a) no,CZ,W
+46,A Fairtrade,e - less frequently,2,1,4,3,5,0,b) 1-10 %,60,b) female,a) no,Slovakia,E
+47,A Fairtrade,a - several times per week,3,1,4,2,5,0,c) 11-30 %,80,b) female,c) 5000-10000 CZK,CZ,W
+48,A Fairtrade,e - less frequently,0,1,0,1,0,0,d) 31 - 50 %,70,b) female,e) 15000-20000,CZ,W
+49,A Fairtrade,c - once in 2 weeks,3,1,4,2,5,0,c) 11-30 %,70,b) female,c) 5000-10000 CZK,CZ,W
+50,A Fairtrade,e - less frequently,4,1,5,2,3,0,e) 51 - 80 %,65,a) male,a) no,Mexico,jiné
+51,A Fairtrade,a - several times per week,5,1,4,2,3,0,c) 11-30 %,60,b) female,a) no,France,W
+52,B normal,d - once in a month,3,1,5,2,4,0,c) 11-30 %,55,a) male,f) >20000,CZ,W
+53,A Fairtrade,a - several times per week,0,1,0,1,0,0,d) 31 - 50 %,52.5,b) female,b) < 5 000 CZK,Mexico,jiné
+54,A Fairtrade,b - once a week,2,1,4,3,5,0,c) 11-30 %,55,b) female,f) >20000,Ukraine,E
+55,A Fairtrade,b - once a week,3,1,5,2,4,0,c) 11-30 %,77,b) female,f) >20000,CZ,W
+56,A Fairtrade,e - less frequently,5,1,3,2,4,0,c) 11-30 %,95,b) female,c) 5000-10000 CZK,CZ,W
+57,A Fairtrade,a - several times per week,3,2,4,1,5,0,c) 11-30 %,65,,b) < 5 000 CZK,Ukraine,E
+58,B normal,c - once in 2 weeks,2,3,5,1,4,0,b) 1-10 %,0,a) male,a) no,Ukraine,E
+59,A Fairtrade,e - less frequently,3,1,2,2,1,0,d) 31 - 50 %,20,b) female,c) 5000-10000 CZK,CZ,W
+60,A Fairtrade,b - once a week,4,1,4,5,2,0,d) 31 - 50 %,100,b) female,d) 10000-15000 CZK,CZ,W
+61,A Fairtrade,d - once in a month,3,1,5,2,4,0,c) 11-30 %,60,b) female,b) < 5 000 CZK,CZ,W
+62,A Fairtrade,c - once in 2 weeks,3,2,5,1,4,0,c) 11-30 %,60,b) female,b) < 5 000 CZK,CZ,W
+63,A Fairtrade,d - once in a month,2,1,4,3,5,"6 složení, tloušťka tabulky",b) 1-10 %,60,a) male,a) no,CZ,W
+64,A Fairtrade,e - less frequently,5,2,4,1,3,0,c) 11-30 %,75,a) male,d) 10000-15000 CZK,CZ,W
+65,A Fairtrade,d - once in a month,0,1,0,0,0,"Desing, obal, sex- appeal",e) 51 - 80 %,69,a) male,e) 15000-20000,CZ,W
+66,A Fairtrade,e - less frequently,2,1,5,3,4,0,b) 1-10 %,60,b) female,c) 5000-10000 CZK,CZ,W
+67,A Fairtrade,d - once in a month,1,5,4,3,2,0,c) 11-30 %,60,b) female,b) < 5 000 CZK,CZ,W
+68,A Fairtrade,e - less frequently,4,1,5,3,2,0,c) 11-30 %,90,b) female,b) < 5 000 CZK,CZ,W
+69,A Fairtrade,e - less frequently,0,1,0,0,0,0,c) 11-30 %,120,b) female,f) >20000,CZ,W
+70,A Fairtrade,b - once a week,1,4,3,5,2,0,c) 11-30 %,70,a) male,f) >20000,CZ,W
+71,A Fairtrade,e - less frequently,2,1,5,3,4,0,c) 11-30 %,50,a) male,b) < 5 000 CZK,CZ,W
+72,A Fairtrade,d - once in a month,5,1,4,3,4,0,d) 31 - 50 %,100,b) female,a) no,CZ,W
+73,A Fairtrade,e - less frequently,2,1,5,3,4,0,b) 1-10 %,200,b) female,a) no,CZ,W
+74,A Fairtrade,c - once in 2 weeks,2,1,4,3,5,0,c) 11-30 %,90,b) female,f) >20000,Ukraine,E
+75,B normal,c - once in 2 weeks,3,2,4,1,5,0,b) 1-10 %,45,b) female,f) >20000,CZ,W
+76,A Fairtrade,e - less frequently,3,1,4,2,5,0,c) 11-30 %,70,b) female,f) >20000,CZ,W
+77,A Fairtrade,e - less frequently,2,1,4,3,4,0,b) 1-10 %,45,b) female,e) 15000-20000,CZ,W
+78,B normal,d - once in a month,3,1,4,2,5,0,b) 1-10 %,50,a) male,c) 5000-10000 CZK,CZ,W
+79,B normal,e - less frequently,4,1,3,2,5,0,b) 1-10 %,45,a) male,a) no,CZ,W
+80,B normal,d - once in a month,1,1,2,2,2,0,b) 1-10 %,50,b) female,d) 10000-15000 CZK,CZ,W
+81,A Fairtrade,d - once in a month,2,1,5,3,4,0,c) 11-30 %,65,b) female,a) no,CZ,W
+82,A Fairtrade,c - once in 2 weeks,0,1,0,0,0,0,b) 1-10 %,70,b) female,d) 10000-15000 CZK,CZ,W
+83,A Fairtrade,e - less frequently,0,1,0,0,0,0,b) 1-10 %,60,a) male,a) no,USA,W
+84,A Fairtrade,e - less frequently,0,1,0,1,0,0,c) 11-30 %,60,a) male,a) no,USA,W
+86,A Fairtrade,d - once in a month,3,2,5,4,5,0,b) 1-10 %,60,a) male,a) no,USA,W
+87,B normal,c - once in 2 weeks,1,7,4,2,5,0,b) 1-10 %,41,a) male,b) < 5 000 CZK,CZ,W
+88,B normal,b - once a week,3,2,4,1,5,0,b) 1-10 %,55,b) female,a) no,CZ,W
+89,B normal,d - once in a month,4,1,3,2,5,0,a) 0 %,40,a) male,f) >20000,CZ,W
+90,B normal,b - once a week,3,2,4,1,5,0,d) 31 - 50 %,65,b) female,a) no,CZ,W
+91,B normal,e - less frequently,,,,,,,b) 1-10 %,65,a) male,d) 10000-15000 CZK,CZ,W
+92,A Fairtrade,c - once in 2 weeks,4,1,3,2,5,0,c) 11-30 %,50,a) male,b) < 5 000 CZK,CZ,W
+93,A Fairtrade,e - less frequently,3,2,4,1,5,0,d) 31 - 50 %,100,a) male,d) 10000-15000 CZK,Slovakia,E
+94,B normal,c - once in 2 weeks,3,1,5,2,4,6,c) 11-30 %,55,a) male,d) 10000-15000 CZK,CZ,W
+95,A Fairtrade,a - several times per week,3,1,5,2,4,0,b) 1-10 %,50,b) female,a) no,Ukraine,E
+96,B normal,d - once in a month,3,2,5,1,4,0,c) 11-30 %,60,b) female,f) >20000,CZ,W
+97,A Fairtrade,d - once in a month,4,1,5,2,3,0,d) 31 - 50 %,65,a) male,c) 5000-10000 CZK,CZ,W
+98,B normal,e - less frequently,0,1,0,0,0,0,a) 0 %,40,a) male,e) 15000-20000,CZ,W
+99,B normal,c - once in 2 weeks,3,1,4,2,5,0,d) 31 - 50 %,55,a) male,b) < 5 000 CZK,CZ,W
+100,B normal,d - once in a month,5,1,3,2,4,0,b) 1-10 %,50,b) female,b) < 5 000 CZK,CZ,W
+101,B normal,e - less frequently,0,1,0,1,0,0,b) 1-10 %,50,a) male,a) no,CZ,W
+102,B normal,d - once in a month,2,3,4,1,5,0,c) 11-30 %,45,a) male,b) < 5 000 CZK,CZ,W
+103,B normal,b - once a week,0,0,1,0,0,0,c) 11-30 %,50,a) male,f) >20000,CZ,W
+104,B normal,a - several times per week,1,3,4,2,5,0,a) 0 %,40,a) male,d) 10000-15000 CZK,Russia,E
+105,B normal,e - less frequently,0,1,0,0,0,0,b) 1-10 %,45,a) male,d) 10000-15000 CZK,CZ,W
+106,B normal,d - once in a month,6,5,4,1,2,3 den v měsíci,a) 0 %,50,b) female,d) 10000-15000 CZK,CZ,W
+107,A Fairtrade,d - once in a month,4,1,5,2,3,0,c) 11-30 %,80,b) female,a) no,CZ,W
+108,A Fairtrade,d - once in a month,5,1,4,2,3,6,c) 11-30 %,60,a) male,c) 5000-10000 CZK,CZ,W
+109,A Fairtrade,b - once a week,3,1,5,2,4,0,b) 1-10 %,60,b) female,d) 10000-15000 CZK,CZ,W
+110,A Fairtrade,d - once in a month,2,1,4,3,5,0,c) 11-30 %,50,b) female,d) 10000-15000 CZK,CZ,W
+111,A Fairtrade,a - several times per week,4,1,5,2,3,0,b) 1-10 %,47.5,a) male,b) < 5 000 CZK,CZ,W
+112,A Fairtrade,e - less frequently,0,0,0,1,0,0,c) 11-30 %,60,b) female,b) < 5 000 CZK,CZ,W
+113,A Fairtrade,b - once a week,1,2,5,3,4,0,b) 1-10 %,100,b) female,a) no,CZ,W
+114,A Fairtrade,e - less frequently,1,3,2,4,5,6 - vzhled balení,c) 11-30 %,45,a) male,a) no,CZ,W
+115,A Fairtrade,b - once a week,1,3,0,2,0,0,c) 11-30 %,60,a) male,a) no,CZ,W
+116,A Fairtrade,d - once in a month,1,1,0,1,0,0,c) 11-30 %,80,b) female,c) 5000-10000 CZK,CZ,W
+119,A Fairtrade,d - once in a month,3,1,5,2,4,0,d) 31 - 50 %,60,b) female,c) 5000-10000 CZK,CZ,W
+120,A Fairtrade,d - once in a month,2,1,4,3,5,0,d) 31 - 50 %,80,b) female,c) 5000-10000 CZK,CZ,W
+121,A Fairtrade,d - once in a month,0,1,0,0,0,0,c) 11-30 %,70,b) female,b) < 5 000 CZK,CZ,W
+122,A Fairtrade,b - once a week,0,0,0,1,0,0,b) 1-10 %,45,b) female,a) no,CZ,W
+123,A Fairtrade,c - once in 2 weeks,1,2,4,3,5,0,c) 11-30 %,60,b) female,a) no,Russia,E
+124,A Fairtrade,e - less frequently,3,1,4,2,5,0,c) 11-30 %,60,b) female,c) 5000-10000 CZK,CZ,W
+125,A Fairtrade,b - once a week,4,1,5,2,3,složení (kupuji bez cukru - se sladidly,c) 11-30 %,67.5,b) female,c) 5000-10000 CZK,CZ,W
+126,A Fairtrade,e - less frequently,3,1,5,2,4,0,c) 11-30 %,60,a) male,a) no,CZ,W
+127,A Fairtrade,a - several times per week,5,2,4,3,1,0,d) 31 - 50 %,100,b) female,a) no,USA,W
+128,B normal,a - several times per week,0,1,0,1,0,0,g) více než 100 %,90,a) male,f) >20000,USA,W
+129,A Fairtrade,b - once a week,0,1,0,0,0,0,c) 11-30 %,60,a) male,a) no,CZ,W
+131,A Fairtrade,e - less frequently,0,1,0,0,0,0,c) 11-30 %,60,b) female,a) no,USA,W
+132,A Fairtrade,e - less frequently,3,1,4,2,5,0,b) 1-10 %,60,b) female,a) no,USA,W
+133,B normal,c - once in 2 weeks,2,1,4,3,5,0,c) 11-30 %,50,a) male,a) no,USA,W
+134,A Fairtrade,c - once in 2 weeks,3,1,5,2,4,0,c) 11-30 %,80,b) female,a) no,USA,W
+135,B normal,a - several times per week,0,1,0,1,0,0,c) 11-30 %,46,b) female,a) no,USA,W
+136,A Fairtrade,e - less frequently,4,1,0,2,3,0,d) 31 - 50 %,70,b) female,a) no,USA,W
+137,A Fairtrade,d - once in a month,0,1,0,0,1,0,c) 11-30 %,70,b) female,a) no,Bolivia,jiné
+138,A Fairtrade,c - once in 2 weeks,0,1,0,0,0,0,b) 1-10 %,60,a) male,a) no,USA,W
+139,B normal,a - several times per week,3,1,4,2,5,0,b) 1-10 %,40,b) female,a) no,USA,W
+140,A Fairtrade,e - less frequently,1,1,0,1,1,0,b) 1-10 %,80,b) female,c) 5000-10000 CZK,CZ,W
+141,A Fairtrade,c - once in 2 weeks,3,1,5,2,4,0,d) 31 - 50 %,70,a) male,a) no,CZ,W
+142,A Fairtrade,e - less frequently,3,2,5,1,4,0,c) 11-30 %,60,a) male,c) 5000-10000 CZK,CZ,W
+143,B normal,e - less frequently,3,1,5,2,4,0,b) 1-10 %,55,b) female,c) 5000-10000 CZK,CZ,W
+144,A Fairtrade,a - several times per week,3,1,5,2,4,0,c) 11-30 %,68,b) female,b) < 5 000 CZK,Russia,E
+145,B normal,e - less frequently,3,1,5,2,4,6,c) 11-30 %,70,a) male,a) no,CZ,W
+146,A Fairtrade,c - once in 2 weeks,1,1,0,0,0,0,c) 11-30 %,70,b) female,c) 5000-10000 CZK,CZ,W
+147,B normal,a - several times per week,0,1,0,0,0,0,c) 11-30 %,50,a) male,a) no,CZ,W
+148,A Fairtrade,b - once a week,1,2,0,3,0,0,c) 11-30 %,60,b) female,a) no,Slovakia,E
+149,A Fairtrade,e - less frequently,5,1,4,2,3,0,d) 31 - 50 %,60,a) male,b) < 5 000 CZK,CZ,W
+150,B normal,d - once in a month,3,1,4,2,5,0,b) 1-10 %,50,b) female,a) no,Slovakia,E
+151,B normal,e - less frequently,3,2,5,1,4,0,b) 1-10 %,45,a) male,c) 5000-10000 CZK,CZ,W
+152,A Fairtrade,e - less frequently,2,1,5,4,3,6,d) 31 - 50 %,70,b) female,c) 5000-10000 CZK,Slovakia,E
+153,A Fairtrade,b - once a week,4,1,2,5,3,0,d) 31 - 50 %,250,b) female,f) >20000,CZ,W
+154,B normal,a - several times per week,3,1,4,2,5,0,c) 11-30 %,55,b) female,a) no,CZ,W
+155,B normal,c - once in 2 weeks,0,1,0,0,0,0,b) 1-10 %,48,b) female,e) 15000-20000,CZ,W
+156,B normal,b - once a week,4,1,3,2,5,0,b) 1-10 %,47.5,a) male,b) < 5 000 CZK,CZ,W
+157,A Fairtrade,e - less frequently,4,1,5,2,3,6,c) 11-30 %,60,a) male,d) 10000-15000 CZK,CZ,W
+158,B normal,d - once in a month,4,1,2,3,5,0,c) 11-30 %,52.5,b) female,d) 10000-15000 CZK,CZ,W
+159,B normal,d - once in a month,2,1,5,3,4,0,c) 11-30 %,50,b) female,f) >20000,CZ,W
+160,A Fairtrade,c - once in 2 weeks,3,1,5,2,4,0,c) 11-30 %,50,b) female,a) no,Slovakia,E
+161,A Fairtrade,b - once a week,5,7,2,5,5,0,c) 11-30 %,60,b) female,e) 15000-20000,CZ,W
+162,B normal,d - once in a month,3,1,4,2,5,0,b) 1-10 %,50,b) female,d) 10000-15000 CZK,CZ,W
+163,B normal,d - once in a month,3,1,4,2,5,0,a) 0 %,40,a) male,e) 15000-20000,CZ,W
+164,A Fairtrade,d - once in a month,5,1,4,2,3,0,c) 11-30 %,70,b) female,c) 5000-10000 CZK,Slovakia,E
+165,B normal,c - once in 2 weeks,2,1,4,3,5,0,b) 1-10 %,50,b) female,b) < 5 000 CZK,CZ,W
+166,A Fairtrade,d - once in a month,1,2,4,3,5,0,c) 11-30 %,100,b) female,b) < 5 000 CZK,CZ,W
+167,B normal,e - less frequently,3,1,4,2,5,0,b) 1-10 %,60,a) male,d) 10000-15000 CZK,CZ,W
+168,B normal,c - once in 2 weeks,3,1,4,2,5,0,b) 1-10 %,50,b) female,a) no,CZ,W
+169,B normal,d - once in a month,1,3,5,2,4,0,c) 11-30 %,55,a) male,d) 10000-15000 CZK,Slovakia,E
+171,A Fairtrade,e - less frequently,4,1,5,3,2,0,c) 11-30 %,60,b) female,c) 5000-10000 CZK,CZ,W
+172,B normal,b - once a week,4,1,3,2,5,0,c) 11-30 %,50,b) female,d) 10000-15000 CZK,Slovakia,E
+173,A Fairtrade,e - less frequently,4,1,4,2,2,0,d) 31 - 50 %,25,b) female,a) no,CZ,W
+175,A Fairtrade,e - less frequently,3,1,5,2,4,0,c) 11-30 %,80,b) female,c) 5000-10000 CZK,CZ,W
+176,B normal,d - once in a month,2,1,4,3,5,0,a) 0 %,60,a) male,c) 5000-10000 CZK,CZ,W
+177,A Fairtrade,d - once in a month,2,1,4,3,5,0,d) 31 - 50 %,100,b) female,c) 5000-10000 CZK,CZ,W
+178,B normal,b - once a week,4,2,5,3,6,ingredients,b) 1-10 %,50,b) female,d) 10000-15000 CZK,Russia,E
+179,A Fairtrade,d - once in a month,4,1,2,3,5,0,d) 31 - 50 %,70,b) female,e) 15000-20000,CZ,W
+180,A Fairtrade,e - less frequently,4,1,5,2,3,0,d) 31 - 50 %,120,b) female,d) 10000-15000 CZK,CZ,W
+181,B normal,e - less frequently,3,1,4,2,5,0,c) 11-30 %,55,a) male,c) 5000-10000 CZK,CZ,W
+182,A Fairtrade,d - once in a month,3,1,5,2,4,0,b) 1-10 %,55,b) female,b) < 5 000 CZK,CZ,W
+183,A Fairtrade,e - less frequently,3,1,5,2,4,0,c) 11-30 %,70,b) female,c) 5000-10000 CZK,CZ,W
+184,B normal,d - once in a month,4,1,3,2,5,0,b) 1-10 %,60,a) male,d) 10000-15000 CZK,CZ,W
+185,A Fairtrade,d - once in a month,2,1,5,3,4,0,c) 11-30 %,70,b) female,c) 5000-10000 CZK,CZ,W
+186,A Fairtrade,d - once in a month,2,1,4,3,5,0,b) 1-10 %,80,b) female,e) 15000-20000,Slovakia,E
+187,A Fairtrade,c - once in 2 weeks,2,1,4,3,4,0,b) 1-10 %,70,b) female,a) no,CZ,W
+188,A Fairtrade,d - once in a month,4,1,5,2,3,0,c) 11-30 %,70,a) male,c) 5000-10000 CZK,CZ,W
+189,A Fairtrade,d - once in a month,4,1,3,2,5,0,c) 11-30 %,55,a) male,b) < 5 000 CZK,CZ,W
+190,A Fairtrade,b - once a week,5,1,3,2,4,0,d) 31 - 50 %,90,b) female,d) 10000-15000 CZK,CZ,W
+191,A Fairtrade,e - less frequently,0,1,0,1,1,0,d) 31 - 50 %,80,b) female,b) < 5 000 CZK,CZ,W
+192,B normal,b - once a week,0.7,0.9,0.2,0.8,0.3,0,b) 1-10 %,45,b) female,c) 5000-10000 CZK,Russia,E
+193,A Fairtrade,d - once in a month,0,1,0,0,0,0,d) 31 - 50 %,20,a) male,e) 15000-20000,CZ,W
+194,B normal,d - once in a month,5,1,4,2,3,0,d) 31 - 50 %,60,b) female,c) 5000-10000 CZK,USA,W
+195,B normal,a - several times per week,0,1,0,0,0,0,c) 11-30 %,0,0,0,0,0
+196,A Fairtrade,a - several times per week,1,1,0,0,1,0,e) 51 - 80 %,70,b) female,f) >20000,CZ,W
+197,B normal,a - several times per week,5,2,4,1,3,0,c) 11-30 %,60,b) female,a) no,CZ,W
+198,B normal,b - once a week,3,2,5,1,4,0,b) 1-10 %,50,a) male,a) no,Ukraine,E
+199,A Fairtrade,c - once in 2 weeks,3,1,5,2,4,0,b) 1-10 %,60,a) male,a) no,Russia,E
+200,A Fairtrade,d - once in a month,5,1,5,1,1,0,e) 51 - 80 %,70,b) female,a) no,Kazakhstan,E
+201,A Fairtrade,e - less frequently,0,1,1,1,1,0,0,95,b) female,e) 15000-20000,Russia,E
+202,A Fairtrade,b - once a week,3,2,4,2,5,0,d) 31 - 50 %,50,b) female,a) no,Azerbaijan,E
+203,A Fairtrade,c - once in 2 weeks,0,1,0,1,0,0,c) 11-30 %,0,a) male,c) 5000-10000 CZK,Ukraine,E
+204,A Fairtrade,d - once in a month,0,1,0,0,0,0,d) 31 - 50 %,0,b) female,a) no,Ukraine,E
+205,A Fairtrade,d - once in a month,0,1,0,0,0,0,b) 1-10 %,0,a) male,d) 10000-15000 CZK,CZ,W
+206,A Fairtrade,b - once a week,4,1,5,2,3,0,b) 1-10 %,60,b) female,a) no,Serbia,E
+207,A Fairtrade,a - several times per week,3,1,4,2,5,0,b) 1-10 %,55,b) female,a) no,Luxembourg,W
+208,B normal,c - once in 2 weeks,0,1,0,1,0,0,c) 11-30 %,55,a) male,c) 5000-10000 CZK,Russia,E
+209,B normal,a - several times per week,0,1,0,0,0,0,c) 11-30 %,30,b) female,c) 5000-10000 CZK,Kyrgyzstan,E
+210,A Fairtrade,d - once in a month,3,1,5,2,2 prefer vegan,0,d) 31 - 50 %,60,b) female,e) 15000-20000,Kyrgyzstan,E
+211,A Fairtrade,c - once in 2 weeks,0,0,0,0,0,what is it made of,b) 1-10 %,60,b) female,c) 5000-10000 CZK,Ukraine,E
+213,B normal,e - less frequently,3,1,4,2,5,0,b) 1-10 %,50,b) female,c) 5000-10000 CZK,Slovakia,E
+214,B normal,d - once in a month,,,,,,,d) 31 - 50 %,75,b) female,a) no,Ukraine,E
+215,A Fairtrade,a - several times per week,0,1,0,1,0,0,d) 31 - 50 %,80,a) male,c) 5000-10000 CZK,Egypt,jiné
+216,B normal,c - once in 2 weeks,1,0,0,0,0,0,c) 11-30 %,0,a) male,a) no,India,jiné
+217,B normal,b - once a week,3,1,5,2,4,0,b) 1-10 %,50,a) male,e) 15000-20000,Ukraine,E
+218,B normal,d - once in a month,1,0,1,0,0,0,g) více než 100 %,400,a) male,a) no,Kazakhstan,E
+219,A Fairtrade,a - several times per week,5,5,4,4,4,0,d) 31 - 50 %,0,b) female,a) no,China,jiné
+221,B normal,a - several times per week,0,1,0,0,0,0,e) 51 - 80 %,70,b) female,a) no,Pakistan,jiné
+222,A Fairtrade,a - several times per week,1,0,0,1,0,0,d) 31 - 50 %,80,a) male,a) no,Russia,E
+223,A Fairtrade,b - once a week,0,1,0,1,0,0,b) 1-10 %,50,b) female,a) no,Ukraine,E
+225,B normal,d - once in a month,3,2,4,1,5,0,b) 1-10 %,41,a) male,b) < 5 000 CZK,Ukraine,E
+226,A Fairtrade,a - several times per week,0,0,1,0,0,0,c) 11-30 %,40,a) male,f) >20000,Lebanon,jiné
+227,B normal,c - once in 2 weeks,2,1,4,3,5,0,d) 31 - 50 %,60,b) female,a) no,Slovakia,E
+228,A Fairtrade,d - once in a month,3,1,4,2,5,0,g) více než 100 %,45,a) male,a) no,Cambodia,jiné
+229,A Fairtrade,e - less frequently,3,1,4,2,5,6,c) 11-30 %,80,a) male,d) 10000-15000 CZK,CZ,W
+231,B normal,a - several times per week,5,2,3,2,4,0,d) 31 - 50 %,37.5,b) female,d) 10000-15000 CZK,Russia,E
+232,A Fairtrade,d - once in a month,0,1,0,0,0,0,b) 1-10 %,45,a) male,a) no,U.K.,W
+233,B normal,e - less frequently,2,1,4,5,3,0,d) 31 - 50 %,60,a) male,d) 10000-15000 CZK,CZ,W
+234,B normal,c - once in 2 weeks,2,1,5,3,4,0,c) 11-30 %,70,b) female,d) 10000-15000 CZK,CZ,W
+235,A Fairtrade,b - once a week,2,0,0,1,0,0,0,100,a) male,f) >20000,Kazakhstan,E
+236,A Fairtrade,b - once a week,0,1,0,0,0,0,b) 1-10 %,50,a) male,c) 5000-10000 CZK,CZ,W
+237,B normal,d - once in a month,0,1,0,0,0,0,c) 11-30 %,70,a) male,a) no,Slovakia,E
+238,B normal,c - once in 2 weeks,0,0,0,0,0,0,b) 1-10 %,80,a) male,b) < 5 000 CZK,Germany / UK,W
+239,B normal,c - once in 2 weeks,3,1,5,2,4,6,b) 1-10 %,50,b) female,b) < 5 000 CZK,Russia,E
+240,A Fairtrade,a - several times per week,2,1,4,3,5,6,b) 1-10 %,70,b) female,d) 10000-15000 CZK,Russia,E
+241,A Fairtrade,c - once in 2 weeks,0,1,0,0,0,0,c) 11-30 %,40,a) male,a) no,Russia,E
+242,B normal,d - once in a month,2,5,1,4,3,0,c) 11-30 %,60,b) female,c) 5000-10000 CZK,USA,W
+243,B normal,d - once in a month,3,1,4,2,5,0,b) 1-10 %,50,a) male,f) >20000,Belarus,E
+244,A Fairtrade,d - once in a month,4,1,5,2,3,0,c) 11-30 %,55,a) male,a) no,Russia,E
+245,B normal,b - once a week,1,2,4,3,5,0,b) 1-10 %,60,a) male,a) no,Russia,E
+246,A Fairtrade,d - once in a month,3,2,4,1,5,3,b) 1-10 %,60,a) male,a) no,Azerbaijan,E
+247,A Fairtrade,e - less frequently,3,2,4,1,5,6,b) 1-10 %,60,a) male,a) no,Azerbaijan,E
+248,A Fairtrade,c - once in 2 weeks,0,1,0,0,0,0,e) 51 - 80 %,0,a) male,e) 15000-20000,Kazakhstan,E
+249,A Fairtrade,c - once in 2 weeks,3,1,4,2,5,0,c) 11-30 %,75,b) female,a) no,Azerbaijan,E
+250,B normal,d - once in a month,0,1,0,1,0,0,d) 31 - 50 %,112.5,a) male,e) 15000-20000,India / Indonesia,jiné
+251,A Fairtrade,e - less frequently,1,0,0,0,0,0,c) 11-30 %,80,a) male,d) 10000-15000 CZK,China,jiné
+252,A Fairtrade,e - less frequently,2,1,4,3,2,0,c) 11-30 %,120,a) male,a) no,China,jiné
+253,A Fairtrade,e - less frequently,2,1,3,4,5,0,e) 51 - 80 %,60,a) male,a) no,China,jiné
+254,B normal,b - once a week,3,1,4,2,5,0,c) 11-30 %,50,a) male,a) no,Russia,E
+255,B normal,d - once in a month,0,1,0,0,0,0,c) 11-30 %,60,b) female,a) no,China,jiné
+256,A Fairtrade,b - once a week,5,1,4,2,3,0,c) 11-30 %,60,a) male,e) 15000-20000,CZ,W
+257,B normal,d - once in a month,1,2,5,1,3,0,b) 1-10 %,0,0,0,0,0
+258,A Fairtrade,c - once in 2 weeks,1,1,0,1,0,0,b) 1-10 %,50,b) female,a) no,CZ,W
+259,A Fairtrade,c - once in 2 weeks,2,1,5,3,4,0,b) 1-10 %,60,a) male,a) no,CZ,W
+260,A Fairtrade,d - once in a month,3,1,5,2,4,0,c) 11-30 %,60,b) female,c) 5000-10000 CZK,CZ,W
+261,A Fairtrade,d - once in a month,5,1,4,3,2,0,b) 1-10 %,60,b) female,c) 5000-10000 CZK,Slovakia,E
+262,A Fairtrade,e - less frequently,3,1,4,2,5,0,c) 11-30 %,100,b) female,c) 5000-10000 CZK,CZ,W
+263,B normal,c - once in 2 weeks,3,1,4,2,5,0,b) 1-10 %,50,a) male,a) no,CZ,W
+265,A Fairtrade,d - once in a month,0,1,0,0,0,0,d) 31 - 50 %,90,b) female,a) no,CZ,W
+266,A Fairtrade,b - once a week,3,1,5,2,4,0,c) 11-30 %,50,b) female,c) 5000-10000 CZK,Russia,E
+267,A Fairtrade,e - less frequently,3,1,5,2,4,0,c) 11-30 %,70,a) male,a) no,CZ,W
+268,A Fairtrade,d - once in a month,5,1,4,2,3,0,b) 1-10 %,60,b) female,c) 5000-10000 CZK,CZ,W
+269,A Fairtrade,e - less frequently,0,1,0,0,0,0,c) 11-30 %,60,a) male,c) 5000-10000 CZK,Slovakia,E
+270,A Fairtrade,e - less frequently,3,1,4,2,5,0,b) 1-10 %,60,b) female,e) 15000-20000,CZ,W
+271,A Fairtrade,e - less frequently,3,1,5,2,4,0,c) 11-30 %,60,a) male,b) < 5 000 CZK,CZ,W
+272,A Fairtrade,d - once in a month,0,1,0,0,0,0,b) 1-10 %,60,b) female,a) no,CZ,W
+273,A Fairtrade,d - once in a month,4,1,3,2,5,0,c) 11-30 %,140,b) female,c) 5000-10000 CZK,CZ,W
+274,A Fairtrade,b - once a week,3,1,2,4,0,0,d) 31 - 50 %,100,b) female,c) 5000-10000 CZK,CZ,W
+275,A Fairtrade,e - less frequently,4,1,3,5,2,0,c) 11-30 %,60,b) female,e) 15000-20000,CZ,W
+276,A Fairtrade,e - less frequently,5,2,4,1,3,0,d) 31 - 50 %,65,a) male,a) no,CZ,W
+277,A Fairtrade,d - once in a month,0,1,0,0,0,0,c) 11-30 %,70,a) male,f) >20000,CZ,W
+278,A Fairtrade,c - once in 2 weeks,1,1,1,1,1,qality (% of cococoa),c) 11-30 %,55,a) male,a) no,CZ,W
+279,B normal,d - once in a month,0,1,0,0,0,0,d) 31 - 50 %,60,a) male,a) no,CZ,W
+280,A Fairtrade,d - once in a month,2,1,5,3,4,0,d) 31 - 50 %,60,b) female,d) 10000-15000 CZK,CZ,W
+281,A Fairtrade,c - once in 2 weeks,0,1,1,1,0,0,c) 11-30 %,50,b) female,a) no,CZ,W
+282,B normal,e - less frequently,2,1,4,3,5,6,b) 1-10 %,50,a) male,a) no,Slovakia,E
+283,B normal,c - once in 2 weeks,3,2,5,1,4,0,b) 1-10 %,62.5,b) female,a) no,Slovakia,E
+284,A Fairtrade,c - once in 2 weeks,5,1,3,2,4,0,c) 11-30 %,100,b) female,c) 5000-10000 CZK,CZ,W
+285,A Fairtrade,e - less frequently,3,1,4,2,5,0,b) 1-10 %,55,b) female,b) < 5 000 CZK,CZ,W
+286,A Fairtrade,e - less frequently,3,1,4,2,5,0,c) 11-30 %,100,b) female,a) no,CZ,W
+287,B normal,e - less frequently,1,0,0,0,0,0,b) 1-10 %,45,a) male,d) 10000-15000 CZK,Russia,E
+288,A Fairtrade,d - once in a month,0,1,0,0,0,0,d) 31 - 50 %,70,b) female,c) 5000-10000 CZK,CZ,W
+289,A Fairtrade,e - less frequently,1,1,0,0,0,0,d) 31 - 50 %,80,b) female,b) < 5 000 CZK,CZ,W
+290,A Fairtrade,d - once in a month,2,3,5,1,4,0,c) 11-30 %,60,b) female,a) no,CZ,W
+291,A Fairtrade,c - once in 2 weeks,3,1,5,2,4,0,c) 11-30 %,70,a) male,a) no,CZ,W
+292,A Fairtrade,c - once in 2 weeks,0,1,0,0,0,0,d) 31 - 50 %,150,a) male,b) < 5 000 CZK,CZ,W
+293,B normal,d - once in a month,2,1,4,3,5,0,c) 11-30 %,50,a) male,a) no,CZ,W
+294,A Fairtrade,d - once in a month,2,3,5,1,4,0,c) 11-30 %,60,a) male,c) 5000-10000 CZK,CZ,W
+295,A Fairtrade,e - less frequently,5,1,4,2,3,0,d) 31 - 50 %,70,b) female,c) 5000-10000 CZK,CZ,W
+296,A Fairtrade,b - once a week,3,1,0,2,0,0,b) 1-10 %,60,b) female,a) no,Russia,E
+297,B normal,e - less frequently,3,1,4,2,5,0,b) 1-10 %,45,b) female,a) no,CZ,W
+298,B normal,d - once in a month,6,7,5,3,4,0,b) 1-10 %,0,0,0,0,0
+300,B normal,d - once in a month,2,1,4,3,5,0,b) 1-10 %,60,a) male,c) 5000-10000 CZK,CZ,W
+301,A Fairtrade,d - once in a month,0,1,0,0,0,0,d) 31 - 50 %,120,b) female,b) < 5 000 CZK,CZ,W
+302,B normal,d - once in a month,5,1,2,4,3,0,c) 11-30 %,70,b) female,a) no,Slovakia,E
+303,B normal,c - once in 2 weeks,1,1,0,0,0,0,b) 1-10 %,0,b) female,a) no,Russia,E
+304,A Fairtrade,e - less frequently,3,1,4,2,5,0,e) 51 - 80 %,70,a) male,b) < 5 000 CZK,CZ,W
+305,B normal,d - once in a month,1,1,5,2,5,0,c) 11-30 %,45,b) female,b) < 5 000 CZK,CZ,W
+306,A Fairtrade,b - once a week,3,1,4,2,5,0,b) 1-10 %,50,b) female,a) no,Russia,E
+307,B normal,e - less frequently,0,1,0,0,0,0,b) 1-10 %,50,b) female,a) no,CZ,W
+308,B normal,d - once in a month,3,1,IDC,2,IDC,0,c) 11-30 %,48,a) male,c) 5000-10000 CZK,CZ,W
+309,A Fairtrade,d - once in a month,0,1,0,1,0,množství kakaa,c) 11-30 %,50,a) male,b) < 5 000 CZK,CZ,W
+310,A Fairtrade,d - once in a month,0,1,1,1,0,0,c) 11-30 %,75,a) male,b) < 5 000 CZK,CZ,W
+311,A Fairtrade,e - less frequently,2,3,4,1,5,0,b) 1-10 %,55,a) male,c) 5000-10000 CZK,CZ,W
+312,A Fairtrade,c - once in 2 weeks,0,1,0,0,0,0,c) 11-30 %,65,a) male,d) 10000-15000 CZK,CZ,W
+313,B normal,d - once in a month,0,1,0,0,0,0,b) 1-10 %,50,a) male,a) no,Ukraine,E
+315,B normal,c - once in 2 weeks,3,2,4,1,5,0,c) 11-30 %,65,b) female,c) 5000-10000 CZK,CZ,W
+316,A Fairtrade,b - once a week,1,1,0,0,1,0,d) 31 - 50 %,70,b) female,a) no,CZ,W
+317,A Fairtrade,e - less frequently,3,2,4,1,5,0,a) 0 %,45,a) male,a) no,CZ,W
+318,A Fairtrade,e - less frequently,5,2,4,1,3,0,c) 11-30 %,50,b) female,a) no,CZ,W
+319,A Fairtrade,d - once in a month,5,1,4,2,3,0,c) 11-30 %,60,b) female,a) no,CZ,W
+320,A Fairtrade,d - once in a month,2,1,3,4,5,0,c) 11-30 %,80,b) female,b) < 5 000 CZK,CZ,W
+321,A Fairtrade,e - less frequently,3,2,4,1,5,0,b) 1-10 %,55,b) female,a) no,CZ,W
+322,A Fairtrade,e - less frequently,3,2,5,4,1,0,d) 31 - 50 %,70,b) female,a) no,CZ,W
+323,A Fairtrade,d - once in a month,2,1,5,3,4,0,b) 1-10 %,70,b) female,b) < 5 000 CZK,CZ,W
+324,A Fairtrade,c - once in 2 weeks,3,1,4,2,5,0,b) 1-10 %,50,b) female,a) no,CZ,W
+325,A Fairtrade,e - less frequently,3,2,4,1,5,0,b) 1-10 %,50,a) male,a) no,CZ,W
+326,B normal,b - once a week,0,1,0,1,1,0,e) 51 - 80 %,60,b) female,c) 5000-10000 CZK,Kazakhstan,E
+327,A Fairtrade,b - once a week,3,1,5,2,4,0,b) 1-10 %,45,b) female,a) no,Kyrgyzstan,E
+328,A Fairtrade,d - once in a month,3,1,5,2,4,0,c) 11-30 %,70,a) male,a) no,CZ,W
+329,A Fairtrade,b - once a week,2,1,4,3,5,0,c) 11-30 %,60,b) female,a) no,CZ,W
+330,B normal,c - once in 2 weeks,2,1,4,3,5,0,b) 1-10 %,45,a) male,b) < 5 000 CZK,CZ,W
+332,A Fairtrade,d - once in a month,5,1,3,2,4,0,f) 81 - 100 %,110,b) female,d) 10000-15000 CZK,CZ,W
+333,B normal,0,0,1,0,0,0,0,c) 11-30 %,50,a) male,a) no,China,jiné
+334,A Fairtrade,d - once in a month,3,1,4,2,6,0,c) 11-30 %,35,b) female,b) < 5 000 CZK,CZ,W
+335,B normal,e - less frequently,3,1,4,2,5,0,b) 1-10 %,50,b) female,a) no,CZ,W
+336,B normal,d - once in a month,1,2,4,3,5,0,c) 11-30 %,55,a) male,f) >20000,Ukraine,E
+337,A Fairtrade,c - once in 2 weeks,2,1,4,3,5,0,c) 11-30 %,70,b) female,a) no,Singapore,jiné
+338,A Fairtrade,b - once a week,4,1,3,5,2,0,d) 31 - 50 %,100,a) male,f) >20000,Singapore,jiné
+339,A Fairtrade,b - once a week,1,1,0,0,0,0,c) 11-30 %,70,b) female,,Russia,E
