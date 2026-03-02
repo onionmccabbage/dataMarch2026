@@ -11,10 +11,13 @@ Toby Dussek
  4:30 end
 
 - Welcome and introductions
+- Introduction to Data Storytelling
 - guess -> data -> information -> knowlege & understanding
-- 
+- Exploratory and Explanatory Data Analysis
 - review example data stories
-
+- Understanding Context and Audience
+- Principles of Designing Effective Visuals
+- Structuring and Presenting the Data Narrative
 - prepare for short individual presentations, then present
 - presentation feedback
   
