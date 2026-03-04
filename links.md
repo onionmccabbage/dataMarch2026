@@ -47,7 +47,8 @@ https://medium.com/@thomas.ellyatt/bad-data-visualisation-real-life-examples-out
 ### Some Resources
 Spurious Correlation: correlation is not necessarily causation
 
-https://statisticsbyjim.com/basics/spurious-correlation/
+https://www.tylervigen.com/spurious-correlations
+https://statisticsbyjim.com/glossary/correlation/
 
 A Popular Data Visualization Hub
 
