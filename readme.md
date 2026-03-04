@@ -32,9 +32,11 @@ Good bad and ugly
    - Colour: corporate. Important to less-important (driven by personas)
    - Contention between red-green as markers vs jangle of colours
      - colour pallette sites
-     - the colour wheel - opposites work well
-     - #c0ffee   #3f0110
-   - **Accessibility**: colour-blind, text-with-colour
+     - the colour wheel - opposites work well:  #c0ffee   #3f0110  (red-green-blue)
+   - **Accessibility**: colour-blind, text-with-colour-background
+   - Lived experience and language affects colourperception
+     - https://www.neuroetpsycho.com/en/himba-hidden-colors/
+     - https://www.smithsonianmag.com/smart-news/do-we-see-the-same-colors-as-others-study-suggests-brains-respond-to-the-same-hues-in-similar-ways-180987307/
 - Structuring and Presenting the Data Narrative
 - Prepare for short individual presentations, then present
 - Presentation feedback
