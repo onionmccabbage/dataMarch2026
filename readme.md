@@ -1,6 +1,6 @@
 ## Data Visualization
 
-4th March 2026
+Visually convey reliable facts in an engaging and memorable way such that observers will be impacted to remember them.
 
 Toby Dussek
 
@@ -14,9 +14,27 @@ Toby Dussek
 - Introduction to Data Storytelling
 - guess -> data -> information -> knowlege & understanding
 - Exploratory and Explanatory Data Analysis
+
+Non-linear story telling: not all eyes will follow the same path
+Patina - worn through use, expect things to be just so
+- speaks to avoiding pointless changes
+
+Good bad and ugly
+- Rarely worth trying to squeeze in to an existig picture (disney)
+- always 'fess up to misleading viz (and avoid where poss)
+- Audiences may glance and ignore
+
 - Review example data stories
-- Understanding Context and Audience
+- Understanding Context and Audiences
 - Principles of Designing Effective Visuals
+   - our targets. Shared characteristics. Gives an idea of what they may know, tailor to existing knowledge. User profiles. Motivation/drivers. 
+   - Persona is a dimension. A set of characteristics, attributes
+   - Colour: corporate. Important to less-important (driven by personas)
+   - Contention between red-green as markers vs jangle of colours
+     - colour pallette sites
+     - the colour wheel - opposites work well
+     - #c0ffee   #3f0110
+   - **Accessibility**: colour-blind, text-with-colour
 - Structuring and Presenting the Data Narrative
 - Prepare for short individual presentations, then present
 - Presentation feedback
