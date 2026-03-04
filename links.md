@@ -36,6 +36,18 @@ https://www.theguardian.com/cities/2017/sep/21/access-denied-disabled-metro-maps
 https://www.theguardian.com/environment/2016/feb/15/the-worlds-most-polluted-cities
 
 
+### More Examples of Data Stories
+https://www.theguardian.com/cities/2017/sep/21/access-denied-disabled-metro-maps-versus-everyone-elses
+https://www.theguardian.com/football/ng-interactive/2016/may/27/jose-mourinho-manchester-united-club-by-club-guide
+https://www.theguardian.com/environment/2016/apr/30/has-chernobyl-disaster-affected-number-of-nuclear-plants-built
+https://www.theguardian.com/environment/2016/feb/15/the-worlds-most-polluted-cities
+https://www.theguardian.com/british-gas-smart-meter-challenge/graphic/what-does-a-smart-energy-monitor-show-you-infographic
+https://www.theguardian.com/lifeandstyle/graphic/2014/sep/23/live-better-get-involved-community-infographic
+https://www.theguardian.com/lifeandstyle/graphic/2014/aug/04/live-better-sourcing-sustainably-infographic
+https://www.theguardian.com/lifeandstyle/graphic/2014/jul/31/live-better-health-and-wellbeing
+https://www.theguardian.com/news/datablog/gallery/2013/jan/15/historic-infographics-history?picture=402389062
+
+
 ### Bad Design
 https://datanizant.com/examples-of-bad-data-visualization/
 https://www.gooddata.com/blog/bad-data-visualization-examples-that-you-can-learn-from/
