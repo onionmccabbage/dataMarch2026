@@ -30,15 +30,6 @@ https://www.reddit.com/r/soccer/comments/twqsh0/how_much_every_club_has_spent_in
 very rich data presented in small space
 
 
-
-
-
-
-
-
-
-
-
 The Guardian
 https://www.theguardian.com/politics/ng-interactive/2026/feb/25/how-rightwing-rhetoric-has-risen-sharply-in-the-uk-parliament-an-exclusive-visual-analysis
 https://www.theguardian.com/cities/2017/sep/21/access-denied-disabled-metro-maps-versus-everyone-elses
@@ -55,16 +46,26 @@ https://medium.com/@thomas.ellyatt/bad-data-visualisation-real-life-examples-out
 
 ### Some Resources
 Spurious Correlation
+
 https://statisticsbyjim.com/basics/spurious-correlation/
 
 A Popular Data Visualization Hub
+
 https://www.kaggle.com/
 
 Intro to Data Storytelling
+
 https://medium.com/nightingale/sketching-the-world-an-icebreaker-to-working-with-data-de8df5e0c21a
 
 Colour Theory
+
 https://careerfoundry.com/en/blog/ui-design/introduction-to-color-theory-and-color-palettes/
+
+Colour pallette makers
+
+    - https://coolors.co/
+    - https://colorkit.co/color-palette-generator/
+    - https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
 
 A Visual History of Infographics
 https://www.theguardian.com/news/datablog/gallery/2013/jan/15/historic-infographics-history?picture=402389062
