@@ -14,11 +14,16 @@ Toby Dussek
 - Introduction to Data Storytelling
 - guess -> data -> information -> knowlege & understanding
 - Exploratory and Explanatory Data Analysis
-- review example data stories
+- Review example data stories
 - Understanding Context and Audience
 - Principles of Designing Effective Visuals
 - Structuring and Presenting the Data Narrative
-- prepare for short individual presentations, then present
-- presentation feedback
+- Prepare for short individual presentations, then present
+- Presentation feedback
+- Deciding when it's done
   
-- end of course feedback
+- End of course feedback
+  -  Data Storytelling Training Course - 4 March 2026 – Fill in form (https://forms.office.com/e/tPvWWvTvjC)
+
+
+All assets in this repository are in the public domain and have been gathered from locations around the internet
